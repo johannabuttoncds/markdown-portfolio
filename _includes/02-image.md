@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of the ocean](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nationalgeographic.org%2Fencyclopedia%2Focean%2F&psig=AOvVaw1u60MyQKUhbF9O1Vs0SeB3&ust=1588188233156000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDG2a7si-kCFQAAAAAdAAAAABAD)
