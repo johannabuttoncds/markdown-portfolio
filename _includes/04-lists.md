@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Dogs
+  * Cavapoos
+2. Nature
+  * Forests
+3. Wine
+  * White or Rosé
